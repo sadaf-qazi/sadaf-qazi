@@ -1,62 +1,27 @@
 # Hi, I'm Sadaf Qazi 👋
 
-**Data Analyst · Machine Learning Engineer · Python Developer**  
+**AI Application Developer * Prompt Enginneer**  
 📍 Rawalpindi, Pakistan &nbsp;|&nbsp; 📧 sadafqazi93@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/sadaf-qazi-47208656/) &nbsp;|&nbsp; [Kaggle](https://www.kaggle.com/sadafqazi)
 
 ---
 
 ## About me
 
-I'm a Data Analyst and Machine Learning Engineer with a background that spans software engineering, healthcare AI research, and freelance product development. I have an MS in Computer Science (specialising in Data Analytics & Machine Learning) from SZABIST Islamabad, and 3 peer-reviewed publications in international journals on predictive analytics in public health.
+Software developer with prior industry experience and recent hands-on expertise in AI-assisted application development, prompt engineering, and workflow automation. Skilled in building web and mobile application prototypes using AI coding tools, rapid MVP development workflows, and structured prompt design. Experienced in translating business requirements into functional products, debugging AI-generated code, and iterating features efficiently. 
 
-I've built ML models that hit 98% accuracy in real-world government healthcare programmes, shipped a commercial app used by freelancers, and automated workflows for e-commerce businesses using Python and AI APIs. I care about building things that are actually useful — not just technically sound.
-
----
-
-## 🚀 Featured project
-
-### [RateRight](https://getrateright.netlify.app/) — Freelance Rate Calculator & Invoice App
-> A commercial app for freelancers to calculate their ideal hourly rate and generate professional PDF invoices. One-time purchase · Works offline · Multi-currency · Launching on iOS & Android.
-
-**Built with:** React, PDF generation, offline-first architecture, multi-currency support  
-**Live at:** [getrateright.netlify.app](https://getrateright.netlify.app/)
-
----
 
 ## 🛠️ Tech stack
 
-**Languages & AI**
-`Python` `SQL` `C#` `JavaScript`
-
-**ML & Data**
-`TensorFlow` `PyTorch` `Scikit-learn` `Pandas` `NumPy` `OpenAI APIs`
-
-**Visualisation**
-`Matplotlib` `Seaborn` `Tableau` `Power BI`
-
-**Dev tools**
-`Git` `GitHub` `Docker` `REST APIs` `Jupyter` `VS Code`
-
-**ML techniques**
-`Regression` `Classification` `Clustering` `NLP` `Forecasting` `CNNs` `Multilayer Perceptron`
-
----
-
-## 📊 ML projects
-
-| Project | Technique | Tools | Highlights |
-|---|---|---|---|
-| Healthcare Immunisation Defaulter Prediction | Multilayer Perceptron | Python, WEKA | 98% accuracy · Government of Sindh |
-| House Price Prediction | Linear Regression | Python, Scikit-learn | Evaluated with RMSE & R² |
-| Customer Churn Prediction | Random Forest / Logistic Regression | Python, Scikit-learn | Precision-recall optimised |
-| Titanic Survival Prediction | Classification | Python, Pandas | Feature engineering on Kaggle dataset |
-| Image Classification (Cat vs Dog) | CNN | TensorFlow, Keras | Binary image classification |
+- **AI**: Prompt Engineering, AI-assisted Development (Vibe Coding), Prompt Optimization, AI Product Prototyping, AI Automation.
+- **Development:** Web Application Development, React Native (AI-assisted), API Integration, Database Design, Rapid MVP Development, Frontend Development Fundamentals.
+- **Programming:** Python, C#, SQL, .NET, REST APIs, Object-Oriented Programming (OOP).
+- **Tools and Platforms:** ChatGPT, Claude, Loveable, Git/GitHub, Zapier, VS Code.
 
 ---
 
 ## 💼 Work highlights
 
-- **Freelance AI & Data Developer** (2024–present) — Built AI-powered products and automations for small businesses including RateRight, an e-commerce workflow automation system using Python + Zapier + OpenAI APIs, and an AI recommendation system architecture.
+- **AI Application Developer** (2025–present) — Built compliance-focused AI-assisted web application, AI-powered products and automations for small businesses including RateRight, an e-commerce workflow automation system using Python + Zapier + OpenAI APIs, and an AI recommendation system architecture.
 - **Data Research Analyst, NCBC** (2019) — Led EPI healthcare analytics project for predictive immunisation modelling. Achieved 98% accuracy. Co-authored 3 published research papers.
 - **Software Engineer** (2016–2019) — Built and maintained enterprise systems across healthcare and logistics at Wiseman Innovations, Broadpeak Technologies, and iEngineering.
 
