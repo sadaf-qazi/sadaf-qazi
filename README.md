@@ -1,37 +1,25 @@
 # Hi, I'm Sadaf Qazi 👋
 
-**AI Application Developer * Prompt Enginneer**  
-📍 Rawalpindi, Pakistan &nbsp;|&nbsp; 📧 sadafqazi93@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/sadaf-qazi-47208656/) &nbsp;|&nbsp; [Kaggle](https://www.kaggle.com/sadafqazi)
+**AI Engineer, Agentic AI & LLM APplications, Machine Learning**  
+📍 Rawalpindi, Pakistan &nbsp;|&nbsp; 📧 sadafqazi93@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/sadaf-qazi-47208656/) 
 
 ---
 
 ## About me
 
-Software developer with prior industry experience and recent hands-on expertise in AI-assisted application development, prompt engineering, and workflow automation. Skilled in building web and mobile application prototypes using AI coding tools, rapid MVP development workflows, and structured prompt design. Experienced in translating business requirements into functional products, debugging AI-generated code, and iterating features efficiently. 
+AI engineer with 4+ years of software engineering and machine learning experience, an MS in Data Analytics & Machine Learning, and three peer-reviewed publications in predictive healthcare analytics. Built and trained neural network models (Multilayer Perceptron, 98% accuracy) on real-world immunization data. Now focused on agentic AI: designing LLM-powered agents and workflow automations with n8n, OpenAI models and Claude Code, and shipping full-stack products through AI-assisted development. Combines ML research grounding with hands-on engineering in Python, SQL, APIs and databases, and a fast prompt-driven build cycle from requirement document to deployed MVP.
 
 
 ## 🛠️ Tech stack
 
-- **AI**: Prompt Engineering, AI-assisted Development (Vibe Coding), Prompt Optimization, AI Product Prototyping, AI Automation.
-- **Development:** Web Application Development, React Native (AI-assisted), API Integration, Database Design, Rapid MVP Development, Frontend Development Fundamentals.
-- **Programming:** Python, C#, SQL, .NET, REST APIs, Object-Oriented Programming (OOP).
-- **Tools and Platforms:** ChatGPT, Claude, Loveable, Git/GitHub, Zapier, VS Code.
-
----
-
-## 💼 Work highlights
-
-- **AI Application Developer** (2025–present) — Built compliance-focused AI-assisted web application, AI-powered products and automations for small businesses including RateRight, an e-commerce workflow automation system using Python + Zapier + OpenAI APIs, and an AI recommendation system architecture.
-- **Data Research Analyst, NCBC** (2019) — Led EPI healthcare analytics project for predictive immunisation modelling. Achieved 98% accuracy. Co-authored 3 published research papers.
-- **Software Engineer** (2016–2019) — Built and maintained enterprise systems across healthcare and logistics at Wiseman Innovations, Broadpeak Technologies, and iEngineering.
-
----
-
-## 📄 Publications
-
-- **A Data-Driven Framework for Predictive Analytics in Immunization Programs** — *Wien Klin Wochenschr* (2020)
-- **Critical Review of Data Analytics Techniques in EPI** — *Current Medical Imaging* (2021)
-- **Smart Healthcare Using Data-Driven Prediction of Immunization Defaulters** — *Computers, Materials & Continua* (2021)
+- **Agentic AI & LLMs:** AI agent design, agents vs. deterministic automations, tool-calling agents, OpenAI chat models, Claude, prompt engineering and optimization, requirement-to-prompt specification (PRD prompts)
+- **Agent & Automation Platforms:** n8n (trigger, action, utility, code and AI agent nodes), Zapier, Gmail and Airtable API integrations, webhooks, SerpAPI search tools
+- **AI-Assisted Development:** Claude Code in VS Code (plan mode, permission modes, skip-permissions mode for sandboxed runs), CLAUDE.md project context, reusable Skills and rules files, Claude in Chrome browser automation, v0.dev, Lovable, vibe coding workflows
+- **Machine Learning:** Supervised learning, neural networks (MLP), classification and regression, model evaluation, feature engineering, scikit-learn, WEKA, Pandas, NumPy
+- **Programming & Backend:** Python, C#, .NET, SQL, REST APIs, OOP, stored procedures, query optimization
+- **Data & Infrastructure:** Supabase (PostgreSQL), Airtable, SQL Server, Git/GitHub, VPS hosting and deployment, Netlify
+- **Frontend & Mobile:** React Native, web dashboards and admin panels, responsive UI
+- **Lead Generation & Product:** Target-customer (ICP) research, automated prospect discovery and lead enrichment, MVP scoping
 
 ---
 
