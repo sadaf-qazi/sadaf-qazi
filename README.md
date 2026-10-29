@@ -1,6 +1,6 @@
 # Hi, I'm Sadaf Qazi 👋
 
-**AI Engineer, Agentic AI & LLM APplications, Machine Learning**  
+**AI Engineer, Agentic AI & LLM Applications, Machine Learning**  
 📍 Rawalpindi, Pakistan &nbsp;|&nbsp; 📧 sadafqazi93@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/sadaf-qazi-47208656/) 
 
 ---
